@@ -1,7 +1,7 @@
 # Hi there, I'm @hscrown! 👋
 
 - 👀 About Me
-  - I'm an aspiring AI engineer with a passion for developing innovative digital solutions. My journey in AI and data science has been fueled by my curiosity and dedication to continuous learning and improvement.
+  - I'm an aspiring AI/Data developper with a passion for developing innovative digital solutions. My journey in AI and data science has been fueled by my curiosity and dedication to continuous learning and improvement.
 
 - 🌱 Currently Learning
   - Advanced Deep Learning techniques with TensorFlow and PyTorch
