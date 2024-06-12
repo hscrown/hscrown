@@ -21,10 +21,10 @@
   - I have a background in French Language and Culture, which gives me a unique perspective and approach to problem-solving in the tech world.
 
 - 🏆 Achievements
- - **1st Place:** 2nd KITA Digital Master Data Analysis Project (2023)
- - **2nd Place:** 2nd KITA Digital Master Web Development Project (2023)
- - **7th Place:** 1st K-Digital Platform AI Competition "AI for a Better Future" (2023)
- - **Korean Patent Pending:** Raw Material Supply Chain Management System (Patent No. 10-2024-0036848)
+   - **1st Place:** 2nd KITA Digital Master Data Analysis Project (2023)
+   - **2nd Place:** 2nd KITA Digital Master Web Development Project (2023)
+   - **7th Place:** 1st K-Digital Platform AI Competition "AI for a Better Future" (2023)
+   - **Korean Patent Pending:** Raw Material Supply Chain Management System (Patent No. 10-2024-0036848)
 
 ---
 
